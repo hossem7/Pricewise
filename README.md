@@ -7,14 +7,14 @@ E-Commerce price tracker that applies concepts of data scraping, cron jobs, send
 Installation
 
 Install the project dependencies using npm:
-***
+```bash
 **npm install**
-***
+```
 
 Set Up Environment Variables
 
 Create a new file named .env in the root of your project and add the following content:
-***
+```bash
 #SCRAPER
 
 BRIGHT_DATA_USERNAME=
@@ -30,9 +30,9 @@ EMAIL_USER=
 EMAIL_PASS=
 
 Replace the placeholder values with your actual credentials. You can obtain these credentials by signing up on these specific websites from BrightData, MongoDB, and Node Mailer
-***
+```
 Running the Project
-***
+```bash
 **npm run dev**
-***
+```
 Open http://localhost:3000 in your browser to view the project.
