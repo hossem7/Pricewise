@@ -7,9 +7,9 @@ E-Commerce price tracker that applies concepts of data scraping, cron jobs, send
 Installation
 
 Install the project dependencies using npm:
-
+***
 **npm install**
-
+***
 
 Set Up Environment Variables
 
