@@ -8,7 +8,7 @@ Installation
 
 Install the project dependencies using npm:
 ```bash
-**npm install**
+npm install
 ```
 
 Set Up Environment Variables
@@ -33,6 +33,6 @@ Replace the placeholder values with your actual credentials. You can obtain thes
 ```
 Running the Project
 ```bash
-**npm run dev**
+npm run dev
 ```
 Open http://localhost:3000 in your browser to view the project.
