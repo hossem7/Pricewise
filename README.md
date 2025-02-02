@@ -8,7 +8,9 @@ Installation
 
 Install the project dependencies using npm:
 
-npm install
+**npm install**
+
+
 Set Up Environment Variables
 
 Create a new file named .env in the root of your project and add the following content:
@@ -31,6 +33,6 @@ Replace the placeholder values with your actual credentials. You can obtain thes
 ***
 Running the Project
 ***
-npm run dev
+**npm run dev**
 ***
 Open http://localhost:3000 in your browser to view the project.
